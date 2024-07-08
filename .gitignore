@@ -1,3 +1,6 @@
 venv
 .idea
 lms/__pycache__/
+courses/migrations/__pycache__/
+courses/__pycache__/
+db.sqlite3
